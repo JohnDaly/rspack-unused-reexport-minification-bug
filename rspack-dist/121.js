@@ -1,0 +1,1 @@
+(self.webpackChunkrspack_repro=self.webpackChunkrspack_repro||[]).push([["121"],{29028:function(e,n,t){"use strict";function r(){let e=document.createElement("div");e.classList.add("text"),document.getElementsByTagName("body")[0].appendChild(e),e.innerHTML="hello, world"}t.r(n),t.d(n,{render:function(){return r}}),t("10445")},10445:function(e){}}]);

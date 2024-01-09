@@ -1,3 +1,5 @@
-import('./render').then(exports => {
-    exports.render()
-})
+import 'core-js/stable';
+
+import('./render').then((exports) => {
+  exports.render();
+});
